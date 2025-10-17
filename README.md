@@ -1,0 +1,1 @@
+Espaço reservado para a atividade da disciplina Padroes de projeto, o Objetivo era criar um sistema simples de uma Banco simplificado ultilizando o que apredemos com orientação orientada a objetos em Java
